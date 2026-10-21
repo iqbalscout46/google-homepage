@@ -1,38 +1,38 @@
-##Google Homepage - Frontend Development Practice Project
+# Google Homepage – Frontend Development Practice Project
 
-A front end development practice project building the layout of Google's homepage using HTML and CSS.
+A frontend development practice project recreating the layout of Google's homepage using HTML and CSS.
 
-##About The Project
+## About the Project
 
-The project was built during my course of learning front end development through Scrimba. It served me to learn how to structure a web page using HTML and style it using CSS.
+This project was built while learning frontend development through Scrimba. It helped me practice structuring a webpage using HTML and styling it with CSS.
 
-##Built With
+## Built With
 
->HTML5
->CSS3
+- HTML5
+- CSS3
 
-##Features
+## Features
 
->Homepage layout similar to Google's one
->Search bar with search button
->Google logo picture
->Layout styles and CSS styling of basic components
+- Homepage layout inspired by Google's homepage
+- Search bar and search button
+- Google logo image
+- Basic CSS layout and styling
 
-##What I Learned
+## What I Learned
 
->How to structure a webpage using HTML
->How to style a webpage using CSS
->How to organize the project files
->How to use Git and GitHub to version control the project
+- How to structure a webpage using HTML
+- How to style a webpage using CSS
+- How to organize project files
+- How to use Git and GitHub for version control
 
-##Credit
+## Credit
 
-This project was made in the course of learning HTML and CSS development through Scrimba.
+This project was created as part of my HTML and CSS learning journey through [Scrimba](https://scrimba.com/). Thanks to Scrimba for providing the learning resources and guidance.
 
-##Project Status
+## Project Status
 
-The project is completed as a beginner learning exercise. It might be further improved in the course of my learning front end development.
+Completed as a beginner learning exercise. I may improve this project as I continue learning frontend development.
 
-##Disclaimer
+## Disclaimer
 
-This is an educational recreation of the Google homepage. The project is not associated with or supported by Google.
+This is an unofficial educational recreation of the Google homepage. It is not affiliated with or endorsed by Google.
